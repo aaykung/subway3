@@ -1,8 +1,8 @@
-﻿Log file open, 12/06/20 22:01:53
+﻿Log file open, 12/06/20 21:58:52
 LogInit: Display: Running engine for game: subway3
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.684205
+LogStats: Stats thread started at 0.889160
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
 Message dialog closed, result: Yes, title: Missing UIWS Plugin, text: This project requires the UIWS plugin.
@@ -31,4 +31,4 @@ LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 LogModuleManager: Shutting down and abandoning module PakFile (4)
 LogModuleManager: Shutting down and abandoning module RSA (3)
 LogExit: Exiting.
-Log file closed, 12/06/20 22:01:54
+Log file closed, 12/06/20 21:58:55
